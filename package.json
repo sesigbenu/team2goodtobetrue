@@ -1,5 +1,31 @@
 {
   "devDependencies": {
-    "playwright": "^1.64.1"
-  }
+    "playwright": "^1.65.0"
+  },
+  "name": "team2goodtobetrue",
+  "version": "1.0.0",
+  "description": "INST 347 Team 2 Group Project (yves was here) A cloud based service aimed at reducing time and stres spent trying to book roomms across campus. It will combine all of the booking systems into one integrated system where it will have detailed room availibility and blackout booking times. Can't wait to finish this project!",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "dependencies": {
+    "playwright-core": "^1.64.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sesigbenu/team2goodtobetrue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sesigbenu/team2goodtobetrue/issues"
+  },
+  "homepage": "https://github.com/sesigbenu/team2goodtobetrue#readme"
 }
