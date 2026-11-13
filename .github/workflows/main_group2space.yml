@@ -9,7 +9,7 @@ on:
       - 'main'
     paths: 
       - 'api/**'
-      - 'github/workflow/main_group2space.yml'
+      - 'github/workflows/main_group2space.yml'
   workflow_dispatch:
 
 env:
